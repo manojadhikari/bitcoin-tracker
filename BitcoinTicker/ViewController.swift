@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  BitcoinTicker
 //
-//  Created by Manoj Adhikari on 12/12/2018.
+//  Created by Manoj Adhikari on 12/12/2017.
 //
 
 import UIKit
